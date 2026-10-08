@@ -1,0 +1,6 @@
+{
+  "name": "Shiok in 10 — Singapore Quick Heritage Kitchen",
+  "description": "Cook authentic 5-10 minute Singapore local dishes across Halal, Vegetarian, Chinese, Malay, Indian, Kids, and Elder-friendly menus with cultural origins, nearby supermarket guides, interactive cooking feedback, and personalized balanced meal matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
